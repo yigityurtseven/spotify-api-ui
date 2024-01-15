@@ -102,7 +102,6 @@ const getInfo = async () => {
         loading.value = false
     } catch (error) {
         console.error('Error:', error);
-        error.value = error
         loading.value = false
     }
 };
