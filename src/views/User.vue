@@ -89,7 +89,6 @@ const toSpotify = (url: string | undefined) => {
     }
 }
 const getInfo = async () => {
-
     loading.value = true
     error.value = null
     try {
