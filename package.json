@@ -1,7 +1,7 @@
 {
   "name": "spotify-api-ui",
   "private": true,
-  "homepage": "https://yigityurtseven.github.io/",
+  "homepage": "https://yigityurtseven.github.io/spotify-api-ui/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
